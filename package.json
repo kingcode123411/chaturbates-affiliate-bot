@@ -1,0 +1,12 @@
+{
+  "name": "chaturbate-affiliate-bot",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8",
+    "faker": "^5.5.3"
+  }
+}
